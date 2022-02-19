@@ -55,6 +55,7 @@ a {
     padding-top: 60px;
     padding-bottom: 100px;
     gap: 100px;
+    justify-content: space-between;
 }
 
 .main-title-text {
@@ -85,4 +86,30 @@ a {
     padding-bottom: 8px;
     color: #f9faf8;
     font-weight: 700;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.information h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.info {
+    display: flex;
+    gap: 50px;
+}
+
+.image-and-text img {
+    height: auto;
+    max-width: 300px;
 }
