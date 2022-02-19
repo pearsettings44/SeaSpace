@@ -113,3 +113,24 @@ a {
     height: auto;
     max-width: 300px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: end;
+}
