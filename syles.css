@@ -180,3 +180,13 @@ a {
     color: #E5E7EB;
     margin-top: 0;
 }
+
+.copyright {
+    display: flex;
+  background-color: #1f2937;
+  color: #f9faf8;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+
+}
