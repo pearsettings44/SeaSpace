@@ -54,7 +54,7 @@ a {
     padding-right: 150px;
     padding-top: 60px;
     padding-bottom: 100px;
-    gap: 100px;
+    gap: 180px;
     justify-content: space-between;
 }
 
@@ -66,19 +66,20 @@ a {
 }
 
 .title-subtext {
-    font-size: 18px;
+    font-size: 20px;
     color: #E5E7EB;
 }
 
 .title img {
     width: auto;
     height: 250px;
+    border-radius: 4px;
 }
 
 .title-left button {
     background-color: #3882F6;
     border-radius: 8px;
-    font-size: 16px;
+    font-size: 20px;
     border: 0;
     padding-left: 24px;
     padding-right: 24px;
@@ -110,8 +111,9 @@ a {
 }
 
 .image-and-text img {
-    height: auto;
+    height: 300px;
     max-width: 300px;
+    border-radius: 6px;
 }
 
 .quote {
