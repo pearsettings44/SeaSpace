@@ -108,12 +108,17 @@ a {
 .info {
     display: flex;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .image-and-text img {
     height: 300px;
     max-width: 300px;
     border-radius: 6px;
+}
+
+.image-and-text p {
+  width: 300px;
 }
 
 .quote {
